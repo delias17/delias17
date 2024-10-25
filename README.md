@@ -1,5 +1,5 @@
 ## Hi there! I'm Daniel, a professional Business Intelligence Analyst
-I have experience on more then 13 technical projects. My skills include business analytics, data visualization and storytelling with Tableau, Power BI, Microsoft programs and SQL. Now, I am eager to leverage my big data and visualization skills in any business sphere to drive growth and boost sales.
+I have experience on more than 13 technical projects. My skills include business analytics, data visualization and storytelling with Tableau, Power BI, Microsoft programs and SQL. Now, I am eager to leverage my big data and visualization skills in any business sphere to drive growth and boost sales.
 
 In my most recent project, Zomato Order Analysis, I developed comprehensive dashboards using Tableau to analyze customer orders, uncovering key performance indicators and market trends. This analysis revealed significant insights into customer preferences and seasonal sales fluctuations, leading to actionable recommendations for menu adjustments that aimed to boost revenue during summer months. My ability to transform complex data into intuitive visualizations has proven instrumental in driving strategic initiatives.
 
